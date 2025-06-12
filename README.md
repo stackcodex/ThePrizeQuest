@@ -1,4 +1,4 @@
-# 2.PrizeQuest: Can You Reach the Top?
+# PrizeQuest: Can You Reach the Top?
 Hey! Ready for a fun challenge? *PrizeQuest* is a Python quiz game where your brainpower earns you virtual cash! It's like your own personal game show – answer questions correctly and watch your winnings grow!
 
 ## What's the Game About?
