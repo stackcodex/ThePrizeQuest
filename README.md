@@ -33,12 +33,12 @@ Want to play this game yourself? It's super easy!
     * After downloading, navigate into the game's folder:
         
         cd your-prizequest-repo
-        # This will be the name of your GitHub repository folder.
+        * This will be the name of your GitHub repository folder.
         
 3.  *Start the Game!*
     * Finally, run the game using Python:
         
         python PrizeQuest.py
-        # Make sure 'PrizeQuest.py' is the exact name of your game file.
+        * Make sure 'PrizeQuest.py' is the exact name of your game file.
         
-# THANK YOU!
+## THANK YOU!
